@@ -14,7 +14,7 @@
 [![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/graphs/contributors)
 ## Features
 
-- [x] Auto Filterr
+- [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
 - [x] Admin Commands
